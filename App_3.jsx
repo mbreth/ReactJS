@@ -1,4 +1,4 @@
-// Using map function to generate a table from a data array
+// Using map function to generate a table from a data array with ReactJS
 
 import React, { Component } from "react";
 
